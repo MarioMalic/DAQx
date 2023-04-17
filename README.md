@@ -11,7 +11,9 @@ Requirements:
   * NI DAQmx drivers (compatible with your acquisition device)
   * Data Acquisition Toolbox
 ### Use the application?
-Tutorial:
+The outline is shown in the video below.
+https://user-images.githubusercontent.com/35977585/232432404-d24c621b-753b-4f79-b55e-e0a3b4407c2c.mp4
+
 ### Contribute?
   * To-do list:
     - Add clocks, triggers functionality
@@ -34,4 +36,3 @@ Tutorial:
   - Data acquisition devices configuration within GUI
   - Data visualisation
   - Data export
-## License
