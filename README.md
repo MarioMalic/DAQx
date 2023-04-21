@@ -9,7 +9,8 @@ Requirements:
   * MATLAB R2022b (compatibility with other versions is to be checked)
   * NI DAQmx drivers (compatible with your acquisition device)
   * Data Acquisition Toolbox
-It is distributed as the .mlapp file which you can open it within MATLAB.
+
+The code is distributed as the .mlapp file which you can open within MATLAB.
 
 ## How to use the application?
 The process is shown in the video below.
