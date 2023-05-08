@@ -13,7 +13,7 @@ Requirements:
 The code is distributed as the .mlapp file which you can open within MATLAB.
 
 ## How to use the application?
-The process is shown in the video below.
+The process is shown in the video below (check GitHub page if you are unable to see it).
 
 https://user-images.githubusercontent.com/35977585/232432404-d24c621b-753b-4f79-b55e-e0a3b4407c2c.mp4
 
