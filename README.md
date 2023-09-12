@@ -4,6 +4,11 @@ DAQx is MATLAB GUI application made for data acquisition (with NI devices)
 ## Why?
 To have a single application that manages acquisition devices setup and acquire the data without spending much time on coding.
 
+## Features
+  - Data acquisition devices configuration within GUI
+  - Data visualisation
+  - Data export
+
 ## How to install the application?
 Requirements:
   * MATLAB R2022b (compatibility with other versions is to be checked)
@@ -35,7 +40,4 @@ https://user-images.githubusercontent.com/35977585/232432404-d24c621b-753b-4f79-
     - Your ideas
   * Coffee
     - Buy me a coffee https://www.buymeacoffee.com/mariomalic
-## Features
-  - Data acquisition devices configuration within GUI
-  - Data visualisation
-  - Data export
+
